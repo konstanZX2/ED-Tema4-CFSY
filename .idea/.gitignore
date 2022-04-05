@@ -1,3 +1,5 @@
+# Игнорировать собственные файлы IntelIJ
+/.idea/
 # Default ignored files
 /shelf/
 /workspace.xml
