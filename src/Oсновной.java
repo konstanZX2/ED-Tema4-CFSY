@@ -5,5 +5,7 @@ public class Oсновной {
         System.out.println("Изменение сделано на github");
         System.out.println("Еще одно изменение, чтобы попробовать .gitignore");
         System.out.println("hui");
+        System.out.println("что-то о фиксации я не знаю");
+        System.out.println("кое-что о фиксации 2, что я знаю");
     }
 }
